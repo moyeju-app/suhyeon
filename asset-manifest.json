@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/suhyeon/static/css/main.65bd0848.css",
-    "main.js": "/suhyeon/static/js/main.5c650f29.js",
+    "main.js": "/suhyeon/static/js/main.a21d164b.js",
     "static/js/787.0c3f432a.chunk.js": "/suhyeon/static/js/787.0c3f432a.chunk.js",
     "index.html": "/suhyeon/index.html",
     "main.65bd0848.css.map": "/suhyeon/static/css/main.65bd0848.css.map",
-    "main.5c650f29.js.map": "/suhyeon/static/js/main.5c650f29.js.map",
+    "main.a21d164b.js.map": "/suhyeon/static/js/main.a21d164b.js.map",
     "787.0c3f432a.chunk.js.map": "/suhyeon/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65bd0848.css",
-    "static/js/main.5c650f29.js"
+    "static/js/main.a21d164b.js"
   ]
 }
