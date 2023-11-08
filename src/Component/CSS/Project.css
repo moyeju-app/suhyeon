@@ -1,0 +1,25 @@
+#project{
+  margin-left: 150px;
+}
+
+fieldset {
+  width: 72%;
+  margin-left: 50px;
+  font-size: 1em;
+  line-height : 2.5em;
+}
+
+fieldset.a{
+  width: 50%;
+}
+
+fieldset.b{
+  width: 40%;
+}
+
+img.portfolio {
+  height: 70%;
+  width: 60%;
+  object-fit: contain;
+
+}
